@@ -137,9 +137,6 @@
         <mxCell id="DgGJiryR2IXKSyaQ5-t1-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFFFF;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DbNdwRggO_h4KRRio58i-1" value="" style="shape=card;whiteSpace=wrap;html=1;size=20;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="50" y="30" width="50" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="DbNdwRggO_h4KRRio58i-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="DbNdwRggO_h4KRRio58i-3" target="DbNdwRggO_h4KRRio58i-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
